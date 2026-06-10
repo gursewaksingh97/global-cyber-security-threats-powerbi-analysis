@@ -27,7 +27,8 @@ This project helps identify major cyber security risks, evaluate their impact, a
 
 Provides project overview and navigation to all analytical dashboard pages.
 
-<img width="1920" height="1080" alt="Home Page" src="https://github.com/user-attachments/assets/da435ebd-e41c-4e48-91e4-4720829230c5" />
+<img width="1375" height="774" alt="Home Page" src="https://github.com/user-attachments/assets/accf32e5-df9e-4279-b08e-2bcc29580c28" />
+
 
 
 ### 2️⃣ Affected Users Analysis
